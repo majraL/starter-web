@@ -1,7 +1,20 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+Simple website project za testiranje Git-a.
+
+## Introduction
+
+Stvorio README.md za testiranje
 
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
+
+This i s a simple web project , deployment can be 
+on any web server or even local file system.
+
+## How To Contribute
+
+Najbolje pustit ća! Viva
