@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-	Dejšo Lipicaner -- cigan -- delipovac valjda, bu
+	Dejšo Lipicaner -- cigan -- delipovac
 
 # THANKS
 
