@@ -17,7 +17,7 @@ on any web server or even local file system.
 
 ## How To Contribute
 
-Najbolje pustit ća! Viva
+Najbolje pustit ća! Vivax
 
 ### Copyright
 
