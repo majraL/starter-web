@@ -9,7 +9,7 @@ Stvorio README.md za testiranje
 ## Purpose
 
 Sample website with plenty of files for demos.
-Adding some more text.
+Adding some more text. Još teksta sa feature_one branch-a. jahuuu
 
 ## Deployment
 
