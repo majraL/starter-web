@@ -8,7 +8,8 @@ Stvorio README.md za testiranje
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+prps
 
 ## Deployment
 
