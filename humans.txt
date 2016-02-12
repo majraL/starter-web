@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Dejšo Lipicaner -- cigan -- delipovac
+	Medo -- mačak -- medoslav
 
 # THANKS
 
